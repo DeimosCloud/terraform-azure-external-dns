@@ -42,3 +42,9 @@ module "external_dns" {
 ## Outputs
 
 No output.
+
+## Contributing
+
+Report issues/questions/feature requests on in the issues section.
+
+Full contributing guidelines are covered [here](CONTRIBUTING.md).
